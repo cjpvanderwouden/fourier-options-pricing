@@ -20,7 +20,7 @@ The mathematical derivations are in the accompanying note..
   - Defines characteristic functions for Black–Scholes, Merton, and Heston
   - Contains code to generate the tables and figures referenced in the note
 
-- fourier_methods_option.pdf  
+- 'fourier_methods_option.pdf'  
   Mathematical background and explanation of the implementation.
 
 - 'fourier_results_montage.pdf'  
